@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+![MasterHead]([https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg](https://media.licdn.com/dms/image/v2/D5612AQEReRdkC5K3_A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1702441745439?e=2147483647&v=beta&t=2HNc7DtYdBNiTE-bTnwgNs134bcdR99S240AHNwxuHE))
 
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
