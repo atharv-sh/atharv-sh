@@ -1,5 +1,5 @@
-# ![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQEReRdkC5K3_A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1702441745439?e=2147483647&v=beta&t=2HNc7DtYdBNiTE-bTnwgNs134bcdR99S240AHNwxuHE)
-![Masterhead](https://in.pinterest.com/pin/934496991429764293/)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQEReRdkC5K3_A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1702441745439?e=2147483647&v=beta&t=2HNc7DtYdBNiTE-bTnwgNs134bcdR99S240AHNwxuHE)
+
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://eitpl.in/assets/img/service/ai.gif">
