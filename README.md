@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv-sh&label=Profile%20views&color=0e75b6&style=flat" alt="atharv-sh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv-sh" alt="atharv-sh" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning, Power BI, Data Analysis**
